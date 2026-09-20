@@ -1,5 +1,3 @@
-# AI-Agent-Homework
-
 課程:AI人工智慧導論
 單元0任務:建立產品客服 Agent 的初步構想與使用場景
 
